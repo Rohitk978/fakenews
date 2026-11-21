@@ -1,0 +1,129 @@
+NEW TEST CASES (17): 
+
+
+==================================================
+
+Test 1 – Health
+
+Eating Raw Garlic Every Night Permanently Removes Cholesterol Without Medicine
+
+A viral message claims that eating three raw garlic cloves every night can permanently remove cholesterol from the body within two weeks. The message says patients have thrown away their heart medication after following the routine. It also claims that hospitals are hiding the remedy to protect their profits.
+
+Test 2 – Technology
+
+Italy fines Meta $887 million over Facebook's access to Android users' photos
+
+Italy's data protection authority fined Meta Platforms 805 million euros, about $887 million, after finding that a Facebook feature on Android accessed users' photos and videos without specific consent. The feature suggested images from a phone's gallery for posting and was switched on by default, affecting roughly 20 million Android users in Italy, according to the regulator. Meta has 60 days to disable the feature by default and ask users for separate consent. The company called the fine disproportionate and said it will appeal. The investigation, which began in 2025, did not examine whether the content was used to train AI models, a practice Meta denies.
+
+Test 3 – Government
+
+Aadhaar Cards to Become Invalid After December 31 Unless Linked to New Mobile App
+
+A forwarded message claims that all Aadhaar cards will stop working after December 31 unless holders link them to a newly launched mobile application. According to the message, citizens who miss the deadline will lose access to bank accounts, ration and SIM cards. It asks readers to download the app from a link and share the message with at least five contacts.
+
+Test 4 – Technology
+
+Microsoft 365 outage disrupts Outlook, Teams and Copilot in dozens of countries
+
+A Microsoft 365 outage that began on November 12, 2026 disrupted Outlook, Teams and Copilot for users in 74 countries and territories, according to the outage tracker Downdetector. Microsoft said the problem was not caused by a cyberattack and linked it to an issue from an earlier network-capacity upgrade that surfaced after a more recent network change. Businesses and some government operations were affected while the company worked to restore services. Microsoft later said the services were back to normal.
+
+Test 5 – Technology
+
+Google to Permanently Shut Down Gmail From Next Month
+
+An online post claims that Google has decided to permanently shut down Gmail and delete all stored emails from next month. The post says users must forward their messages to a new service using a link provided in the article. It adds that the company will not offer any backup option after the shutdown.
+
+Test 6 – Economy
+
+Sensex, Nifty rise as foreign inflows and easing crude lift Indian markets
+
+Indian equity benchmarks rose on Monday, November 16, 2026. The BSE Sensex gained about 510 points, or 0.63 percent, to close at 82,102.85, while the NSE Nifty 50 rose about 147 points, or 0.58 percent, to settle at 25,291.10. Gains were supported by strong foreign investor inflows and easing crude oil prices, with FMCG and healthcare stocks among the leading gainers on the Nifty.
+
+Test 7 – Science
+
+New Pill Unlocks 100% of the Human Brain, Scientists Announce
+
+A fabricated science report claims that researchers have created a pill that allows humans to use the full capacity of their brains instead of the supposed ten percent they normally use. People who took the pill reportedly learned new languages in a single weekend and solved advanced mathematics problems without study. The pill is said to be available in pharmacies next month.
+
+Test 8 – Economy
+
+India's retail inflation rises to 6.09% in October, breaches RBI's upper limit
+
+India's retail inflation accelerated to 6.09 percent in October 2026 from 5.54 percent in September. It was the first time inflation breached the Reserve Bank of India's 6 percent upper tolerance limit under the current consumer price index series.
+
+Test 9 – Education
+
+CBSE to Abolish Class 10 Board Examinations From Next Academic Year
+
+A widely shared post claims that the Central Board of Secondary Education has decided to scrap Class 10 board examinations from the next academic year. According to the post, all students will be promoted automatically on the basis of internal school assessments. The decision is said to have been approved at a closed-door meeting and will be announced soon.
+
+Test 10 – Markets
+
+Sensex, Nifty end Diwali Muhurat trading in the red for first time since 2017
+
+The Sensex and Nifty 50 ended the special Diwali Muhurat trading session on Sunday, November 8, 2026 marginally lower, the first time they closed in the red in a Muhurat session since 2017. The Sensex touched an intraday high of 81,442.11, up more than 400 points, before profit-booking towards the close erased its gains and pulled the Nifty below the 25,000 mark. Broader markets stayed firm.
+
+Test 11 – Space
+
+NASA Hiding Data About Giant Asteroid That Will Hit Earth on Christmas Day
+
+A viral video claims that a giant asteroid will strike Earth on December 25 and that space agencies are hiding the data to prevent panic. The video says secret underground shelters are already being prepared for officials. It urges viewers to share the video before it is removed from the internet.
+
+Test 12 – Consumer
+
+Mother Dairy raises milk prices by Rs 2 a litre
+
+Mother Dairy has raised milk prices by Rs 2 a litre or more, according to wire reports on November 11, 2026. The increase is expected to come into effect from November 12.
+
+Test 13 – Fuel
+
+Petrol Price to Fall to Rs 40 Per Litre Across India From Next Week, Oil Ministry Sources Say
+
+Sources in the petroleum ministry have reportedly said that petrol prices will be cut to Rs 40 per litre in every state from next week. The report claims that the reduction will be possible because the government has secured a secret deal for unlimited cheap crude oil. Diesel prices are also said to fall by the same margin.
+
+Test 14 – Space
+
+ISRO completes flight acceptance test of cryogenic engine for next GSLV mission
+
+ISRO successfully conducted the flight acceptance test of the cryogenic engine identified for its next GSLV mission, GSLV-F19, on November 5, 2026. The test was carried out at the ISRO Propulsion Complex in Mahendragiri.
+
+Test 15 – Health
+
+Chocolate Officially Declared Healthier Than Vegetables by Global Health Body
+
+A fabricated article claims that a global health organisation has officially declared that eating chocolate every day is healthier than eating fruits and vegetables. According to the article, nutritionists around the world are being told to remove vegetables from diet plans. Schools are reportedly being advised to serve chocolate instead of vegetables in meals.
+
+Test 16 – Scam
+
+Telecom Operator Giving Free Unlimited Recharge for One Year to All Users
+
+A message circulating on social media claims that a leading telecom operator is giving one year of free unlimited recharge to all customers to celebrate its anniversary. Users only need to click a link, enter their mobile number and OTP, and forward the message to ten friends. The offer is said to end tonight.
+
+Test 17 – Environment
+
+Study Finds Electric Cars Pollute More Than Petrol Cars in Every Country
+
+A new study reportedly proves that electric cars cause more total pollution than petrol cars in every country in the world. The article claims that the researchers ignored no factor and that electric vehicles should be banned immediately. It does not name the university, the journal or the authors of the study.
+
+
+==================================================
+ANSWER KEY (do not paste this part into your app)
+==================================================
+
+Test 1  FAKE   Synthetic, written by me (health clickbait)
+Test 2  REAL   Reuters / AP / Al Jazeera, 14-15 Nov 2026 (confirmed by several outlets)
+Test 3  FAKE   Synthetic, written by me (chain-message scam style; no such deadline exists)
+Test 4  REAL   Al Jazeera 13 Nov 2026, BBC-cited reports, Reuters (confirmed by several outlets)
+Test 5  FAKE   Synthetic, written by me (recurring hoax format)
+Test 6  REAL   HDFC Sky market close report 16 Nov 2026 (other outlets round the Sensex close to 82,105)
+Test 7  FAKE   Synthetic, written by me
+Test 8  REAL   JM Financial market news 12 Nov 2026 (single source, verify against the official MoSPI release)
+Test 9  FAKE   Synthetic, written by me (plausible tone, harder case)
+Test 10 REAL   Moneylife 9 Nov 2026
+Test 11 FAKE   Synthetic, written by me (doomsday hoax style)
+Test 12 REAL   Moneylife citing wire reports, 11 Nov 2026 (short, single source)
+Test 13 FAKE   Synthetic, written by me (plausible tone, harder case)
+Test 14 REAL   idrw.org, 5 Nov 2026 (single, smaller source; check isro.gov.in)
+Test 15 FAKE   Synthetic, written by me
+Test 16 FAKE   Synthetic, written by me (typical recharge scam)
+Test 17 FAKE   Synthetic, written by me (misleading claim without sources, harder case)
